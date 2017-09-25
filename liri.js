@@ -1,6 +1,5 @@
 //Obtains keys from keys.js
 var keys = require("./keys.js");
-
 //Gets the function to be called
 var command = process.argv[2];
 //Calls for reads/appends
@@ -25,14 +24,12 @@ function twitter() {
 	client.get('statuses/user_timeline', params, function(error, tweets, response) {
 		//If no error
 	  if (!error) {
-	  	//Writes command to log.txt
-	  	fs.appendFile("log.txt", "\n" + command + "\n");
 	  	//Goes through most recent 20 tweets
   		for (var i = 0; i < tweets.length; i++) {
   			//Prints tweet to console with creation date
 	  		console.log(tweets[i].text + " Created: " + tweets[i].created_at + "\n");
 	  		//Tweet and creation date appended to log.txt
-	  		fs.appendFile("log.txt", tweets[i].text + " Created: " + tweets[i].created_at + "\n");
+	  		fs.appendFileSync("log.txt", tweets[i].text + " Created: " + tweets[i].created_at + "\n");
 	  	}
 	  }
 	});
@@ -61,8 +58,6 @@ function spotify(title) {
 	    return console.log('Error occurred: ' + err);
 	  }
 	  
-	  //Writes command to log.txt
-	  fs.appendFile("log.txt", "\n" + command + "\n");
 	  //Loops through 20 results
 	  for (var i = 0; i < data.tracks.limit; i++) {
 	  	//Stores data information
@@ -70,6 +65,15 @@ function spotify(title) {
 		  var name = data.tracks.items[i].name;
 		  var link = data.tracks.items[i].external_urls.spotify;
 		  var album = data.tracks.items[i].album.name;
+
+		  //If there are multiple artists
+		  if (data.tracks.items[i].artists.length > 1) {
+		  	//Loops through array of artists
+		  	for (var j = 1; j < data.tracks.items[i].artists.length; j++) {
+		  		//Adds artists together
+		  		artists += ", " + data.tracks.items[i].artists[j].name;
+		  	}
+		  }
 
 		  //Logs data information
 		  console.log(i+1);
@@ -80,11 +84,11 @@ function spotify(title) {
 			console.log("\n-----------------------------------------------------------\n");
 
 			//Appends data information to log.txt
-			fs.appendFile("log.txt", (i+1) + "\n");
-			fs.appendFile("log.txt", artists + "\n");
-			fs.appendFile("log.txt", name + "\n");
-			fs.appendFile("log.txt", link + "\n");
-			fs.appendFile("log.txt", album + "\n");
+			fs.appendFileSync("log.txt", (i+1) + "\n");
+			fs.appendFileSync("log.txt", "Artists: " + artists + "\n");
+			fs.appendFileSync("log.txt", "Name: " + name + "\n");
+			fs.appendFileSync("log.txt", "Spotify link: " + link + "\n");
+			fs.appendFileSync("log.txt", "Album: " + album + "\n");
 	  }	  
 	});
 }
@@ -125,29 +129,66 @@ function movie(search) {
 	  console.log("\nActors: " + actors);
 
 	  //Appends movie info to log.txt
-	  fs.appendFile("log.txt", "\n" + command + "\n");
-	  fs.appendFile("log.txt", title + "\n");
-	  fs.appendFile("log.txt", year + "\n");
-	  fs.appendFile("log.txt", imdb + "\n");
-	  fs.appendFile("log.txt", rotten + "\n");
-	  fs.appendFile("log.txt", country + "\n");
-	  fs.appendFile("log.txt", language + "\n");
-	  fs.appendFile("log.txt", plot + "\n");
-	  fs.appendFile("log.txt", actors + "\n");
+	  fs.appendFileSync("log.txt", "Title: " + title + "\n");
+	  fs.appendFileSync("log.txt", "Year: " + year + "\n");
+	  fs.appendFileSync("log.txt", "IMDB Rating: " + imdb + "\n");
+	  fs.appendFileSync("log.txt", "Rotten Tomatoes Rating: " + rotten + "\n");
+	  fs.appendFileSync("log.txt", "Country: " + country + "\n");
+	  fs.appendFileSync("log.txt", "Language: " + language + "\n");
+	  fs.appendFileSync("log.txt", "Plot: " + plot + "\n");
+	  fs.appendFileSync("log.txt", "Actors: " + actors + "\n");
 	});
 }
 
 //Determine which function to run based on command input
 if (command === "my-tweets") {
+	//Writes command to log.txt
+	fs.appendFileSync("log.txt", "\nCommand: " + command + "\n");
+	//Calls twitter function
 	twitter();
 }
 else if (command === "spotify-this-song") {
-	spotify(process.argv[3]);
+	//Writes command to log.txt
+	fs.appendFileSync("log.txt", "\nCommand: " + command + "\n");
+	//Variable to hold search term
+	var title = process.argv[3];
+	//If title is more than 1 word
+	if (process.argv.length > 4) {
+		//Loop through title search
+		for (var i = 4; i < process.argv.length; i++) {
+			//Combine strings together
+			title += "+" + process.argv[i];
+		}
+		spotify(title);
+	}
+	else {
+		//Calls spotify function
+		spotify(title);
+	}
 }
 else if (command === "movie-this") {
-	movie(process.argv[3]);
+	//Writes command to log.txt
+	fs.appendFileSync("log.txt", "\nCommand: " + command + "\n");
+	//Variable to hold search term
+	var title = process.argv[3];
+	//If title is more than 1 word
+	if (process.argv.length > 4) {
+		//Loop through title search
+		for (var i = 4; i < process.argv.length; i++) {
+			//Combine strings together
+			title += "+" + process.argv[i];
+		}
+		//Calls movie function
+		movie(title);
+	}
+	else {
+		//Calls movie function
+		movie(title);
+	}
 }
 else if (command === "do-what-it-says") {
+	//Writes command to log.txt
+	fs.appendFileSync("log.txt", "\nCommand: " + command + ": ")
 	//Reads the random.txt file to determine function
 	fs.readFile("random.txt", "utf8", function(error, data) {
 		//Displays error if necessary
@@ -161,7 +202,7 @@ else if (command === "do-what-it-says") {
 		var command = dataArr[0];
 
 		//Appends command inside random.txt
-		fs.appendFile("log.txt", "\n" + command);
+		fs.appendFile("log.txt", command + "\n");
 		//Determines command function based on string found
 		if (command === "my-tweets") {
 			twitter();
