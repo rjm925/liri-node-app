@@ -133,7 +133,39 @@ Language: English
 Plot: In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right.
 Actors: Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison
 
-Command: do-what-it-says - spotify-this-song
+Command: do-what-it-says: my-tweets
+BRING BACK DYRUS Created: Fri Sep 22 17:53:32 +0000 2017
+SVEN IS A USELESS WARD Created: Fri Sep 22 17:53:12 +0000 2017
+DOUBLELIFT SUCKS Created: Fri Sep 22 17:53:00 +0000 2017
+FLAMING PEOPLE Created: Fri Sep 22 17:52:54 +0000 2017
+NA BRINGING HOME THE TROPHY Created: Fri Sep 22 17:50:13 +0000 2017
+G2 CHOKE Created: Fri Sep 22 17:48:33 +0000 2017
+SSG Created: Fri Sep 22 17:48:22 +0000 2017
+LZ FLUKE Created: Fri Sep 22 17:48:11 +0000 2017
+SKT OVERRATED Created: Fri Sep 22 17:47:34 +0000 2017
+EU SUCKS KOREA SUCKS CHINA SUCKS Created: Fri Sep 22 17:46:44 +0000 2017
+NA NUMBA 1 Created: Fri Sep 22 17:45:27 +0000 2017
+NA BEST REGION Created: Fri Sep 22 17:45:15 +0000 2017
+KAPPA Created: Fri Sep 22 17:44:31 +0000 2017
+BJERGSEN MVP Created: Fri Sep 22 17:43:57 +0000 2017
+TSM TSM TSM TSM TSM TSM TSM TSM Created: Fri Sep 22 17:42:55 +0000 2017
+TSM BEST TEAM Created: Fri Sep 22 17:41:46 +0000 2017
+S7 CHAMPIONS Created: Fri Sep 22 17:40:08 +0000 2017
+BJERGSEN IS THE BEST MID LANER IN THE WORLD Created: Fri Sep 22 17:36:44 +0000 2017
+WORLDS 2017 IS OURS Created: Fri Sep 22 17:31:22 +0000 2017
+BRING BACK THEODDONE Created: Fri Sep 22 17:26:28 +0000 2017
+
+Command: do-what-it-says: movie-this
+Title: Get Out
+Year: 2017
+IMDB Rating: 7.8/10
+Rotten Tomatoes Rating: 99%
+Country: USA
+Language: English
+Plot: It's time for a young African American to meet with his white girlfriend's parents for a weekend in their secluded estate in the woods, but before long, the friendly and polite ambience will give way to a nightmare.
+Actors: Daniel Kaluuya, Allison Williams, Catherine Keener, Bradley Whitford
+
+Command: do-what-it-says: spotify-this-song
 1
 Artists: Backstreet Boys
 Name: I Want It That Way
@@ -180,7 +212,7 @@ Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
 Spotify link: https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK
 Album: Poodle Hat
 10
-Artists: Kyle Olthoff
+Artists: Kyle Olthoff, Destiny Jenkins
 Name: I Want It That Way
 Spotify link: https://open.spotify.com/track/1UUw0IsDzxCxJ6v0dlygUy
 Album: I Want It That Way
@@ -215,7 +247,7 @@ Name: I Want It That Way
 Spotify link: https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju
 Album: NKOTBSB
 17
-Artists: Scott Bradlee's Postmodern Jukebox
+Artists: Scott Bradlee's Postmodern Jukebox, Shoshana Bean
 Name: I Want It That Way
 Spotify link: https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM
 Album: Selfies on Kodachrome
@@ -225,66 +257,12 @@ Name: I Want It That Way - Acoustic
 Spotify link: https://open.spotify.com/track/1o6kZhVH06xaWEzdCt4ExL
 Album: I Want It That Way (Acoustic)
 19
-Artists: Jason Chen
+Artists: Jason Chen, Joseph Vincent
 Name: I Want It That Way
 Spotify link: https://open.spotify.com/track/3YugF8eBqmkUDLwFvTfCVB
 Album: I Want It That Way
 20
-Artists: Scott Bradlee's Postmodern Jukebox
+Artists: Scott Bradlee's Postmodern Jukebox, Shoshana Bean
 Name: I Want It That Way
 Spotify link: https://open.spotify.com/track/6FNTpwQU3VNZvezUPYMjPY
 Album: PMJ Is For Lovers: The Love Song Collection
-
-Command: do-what-it-says - my-tweets
-BRING BACK DYRUS Created: Fri Sep 22 17:53:32 +0000 2017
-SVEN IS A USELESS WARD Created: Fri Sep 22 17:53:12 +0000 2017
-DOUBLELIFT SUCKS Created: Fri Sep 22 17:53:00 +0000 2017
-FLAMING PEOPLE Created: Fri Sep 22 17:52:54 +0000 2017
-NA BRINGING HOME THE TROPHY Created: Fri Sep 22 17:50:13 +0000 2017
-G2 CHOKE Created: Fri Sep 22 17:48:33 +0000 2017
-SSG Created: Fri Sep 22 17:48:22 +0000 2017
-LZ FLUKE Created: Fri Sep 22 17:48:11 +0000 2017
-SKT OVERRATED Created: Fri Sep 22 17:47:34 +0000 2017
-EU SUCKS KOREA SUCKS CHINA SUCKS Created: Fri Sep 22 17:46:44 +0000 2017
-NA NUMBA 1 Created: Fri Sep 22 17:45:27 +0000 2017
-NA BEST REGION Created: Fri Sep 22 17:45:15 +0000 2017
-KAPPA Created: Fri Sep 22 17:44:31 +0000 2017
-BJERGSEN MVP Created: Fri Sep 22 17:43:57 +0000 2017
-TSM TSM TSM TSM TSM TSM TSM TSM Created: Fri Sep 22 17:42:55 +0000 2017
-TSM BEST TEAM Created: Fri Sep 22 17:41:46 +0000 2017
-S7 CHAMPIONS Created: Fri Sep 22 17:40:08 +0000 2017
-BJERGSEN IS THE BEST MID LANER IN THE WORLD Created: Fri Sep 22 17:36:44 +0000 2017
-WORLDS 2017 IS OURS Created: Fri Sep 22 17:31:22 +0000 2017
-BRING BACK THEODDONE Created: Fri Sep 22 17:26:28 +0000 2017
-
-Command: do-what-it-says: my-tweets
-BRING BACK DYRUS Created: Fri Sep 22 17:53:32 +0000 2017
-SVEN IS A USELESS WARD Created: Fri Sep 22 17:53:12 +0000 2017
-DOUBLELIFT SUCKS Created: Fri Sep 22 17:53:00 +0000 2017
-FLAMING PEOPLE Created: Fri Sep 22 17:52:54 +0000 2017
-NA BRINGING HOME THE TROPHY Created: Fri Sep 22 17:50:13 +0000 2017
-G2 CHOKE Created: Fri Sep 22 17:48:33 +0000 2017
-SSG Created: Fri Sep 22 17:48:22 +0000 2017
-LZ FLUKE Created: Fri Sep 22 17:48:11 +0000 2017
-SKT OVERRATED Created: Fri Sep 22 17:47:34 +0000 2017
-EU SUCKS KOREA SUCKS CHINA SUCKS Created: Fri Sep 22 17:46:44 +0000 2017
-NA NUMBA 1 Created: Fri Sep 22 17:45:27 +0000 2017
-NA BEST REGION Created: Fri Sep 22 17:45:15 +0000 2017
-KAPPA Created: Fri Sep 22 17:44:31 +0000 2017
-BJERGSEN MVP Created: Fri Sep 22 17:43:57 +0000 2017
-TSM TSM TSM TSM TSM TSM TSM TSM Created: Fri Sep 22 17:42:55 +0000 2017
-TSM BEST TEAM Created: Fri Sep 22 17:41:46 +0000 2017
-S7 CHAMPIONS Created: Fri Sep 22 17:40:08 +0000 2017
-BJERGSEN IS THE BEST MID LANER IN THE WORLD Created: Fri Sep 22 17:36:44 +0000 2017
-WORLDS 2017 IS OURS Created: Fri Sep 22 17:31:22 +0000 2017
-BRING BACK THEODDONE Created: Fri Sep 22 17:26:28 +0000 2017
-
-Command: do-what-it-says: movie-this
-Title: Get Out
-Year: 2017
-IMDB Rating: 7.8/10
-Rotten Tomatoes Rating: 99%
-Country: USA
-Language: English
-Plot: It's time for a young African American to meet with his white girlfriend's parents for a weekend in their secluded estate in the woods, but before long, the friendly and polite ambience will give way to a nightmare.
-Actors: Daniel Kaluuya, Allison Williams, Catherine Keener, Bradley Whitford
