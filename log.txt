@@ -266,3 +266,795 @@ Artists: Scott Bradlee's Postmodern Jukebox, Shoshana Bean
 Name: I Want It That Way
 Spotify link: https://open.spotify.com/track/6FNTpwQU3VNZvezUPYMjPY
 Album: PMJ Is For Lovers: The Love Song Collection
+
+Command: my-tweets
+BRING BACK DYRUS Created: Fri Sep 22 17:53:32 +0000 2017
+SVEN IS A USELESS WARD Created: Fri Sep 22 17:53:12 +0000 2017
+DOUBLELIFT SUCKS Created: Fri Sep 22 17:53:00 +0000 2017
+FLAMING PEOPLE Created: Fri Sep 22 17:52:54 +0000 2017
+NA BRINGING HOME THE TROPHY Created: Fri Sep 22 17:50:13 +0000 2017
+G2 CHOKE Created: Fri Sep 22 17:48:33 +0000 2017
+SSG Created: Fri Sep 22 17:48:22 +0000 2017
+LZ FLUKE Created: Fri Sep 22 17:48:11 +0000 2017
+SKT OVERRATED Created: Fri Sep 22 17:47:34 +0000 2017
+EU SUCKS KOREA SUCKS CHINA SUCKS Created: Fri Sep 22 17:46:44 +0000 2017
+NA NUMBA 1 Created: Fri Sep 22 17:45:27 +0000 2017
+NA BEST REGION Created: Fri Sep 22 17:45:15 +0000 2017
+KAPPA Created: Fri Sep 22 17:44:31 +0000 2017
+BJERGSEN MVP Created: Fri Sep 22 17:43:57 +0000 2017
+TSM TSM TSM TSM TSM TSM TSM TSM Created: Fri Sep 22 17:42:55 +0000 2017
+TSM BEST TEAM Created: Fri Sep 22 17:41:46 +0000 2017
+S7 CHAMPIONS Created: Fri Sep 22 17:40:08 +0000 2017
+BJERGSEN IS THE BEST MID LANER IN THE WORLD Created: Fri Sep 22 17:36:44 +0000 2017
+WORLDS 2017 IS OURS Created: Fri Sep 22 17:31:22 +0000 2017
+BRING BACK THEODDONE Created: Fri Sep 22 17:26:28 +0000 2017
+
+Command: spotify-this-song
+1
+Artists: Harry Styles
+Name: Sign of the Times
+Spotify link: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
+Album: Sign of the Times
+2
+Artists: Ty Dolla $ign, Lil Wayne, The-Dream
+Name: Love U Better (feat. Lil Wayne & The-Dream)
+Spotify link: https://open.spotify.com/track/0rlFL6bxIWcCn9gk9GExFA
+Album: Love U Better (feat. Lil Wayne & The-Dream)
+3
+Artists: Ty Dolla $ign, DJ Mustard, Wiz Khalifa, The Weeknd
+Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Spotify link: https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO
+Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+4
+Artists: Harry Styles
+Name: Sign of the Times
+Spotify link: https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN
+Album: Harry Styles
+5
+Artists: Jeremih, Ty Dolla $ign
+Name: Impatient
+Spotify link: https://open.spotify.com/track/3WjyiSbfR74pjWXQ3IaFKJ
+Album: Late Nights: The Album
+6
+Artists: Ace of Base
+Name: The Sign
+Spotify link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Album: The Sign (US Album) [Remastered]
+7
+Artists: Mac Miller, Ty Dolla $ign
+Name: Cinderella (feat. Ty Dolla $ign)
+Spotify link: https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb
+Album: The Divine Feminine
+8
+Artists: Lil Wayne, Wiz Khalifa, Imagine Dragons, X Ambassadors, Logic, Ty Dolla $ign
+Name: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+Spotify link: https://open.spotify.com/track/7qUJQSNX9QNf46CC6FgH66
+Album: Suicide Squad: The Album
+9
+Artists: Juicy J, Wiz Khalifa, Ty Dolla $ign, Madsonik, Kill The Noise
+Name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+Spotify link: https://open.spotify.com/track/7zBQRGpYImAdIZc97FNj3V
+Album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+10
+Artists: Ty Dolla $ign, Wiz Khalifa
+Name: Or Nah (feat. Wiz Khalifa) - Live from The Village, Los Angeles
+Spotify link: https://open.spotify.com/track/6hYdhO1BF8V03tuF8pADKP
+Album: Spotify Session
+11
+Artists: Vic Mensa, Ty Dolla $ign
+Name: We Could Be Free
+Spotify link: https://open.spotify.com/track/4dH71jhtwivDcv0nSzzxkM
+Album: The Autobiography
+12
+Artists: Chance The Rapper, Ty Dolla $ign, Anderson .Paak, BJ The Chicago Kid, Raury
+Name: Blessings
+Spotify link: https://open.spotify.com/track/5IdQEHgtmj9th3OkfQKhf8
+Album: Coloring Book
+13
+Artists: Jasmine Thompson, Sabrina Carpenter
+Name: Sign of the Times
+Spotify link: https://open.spotify.com/track/3h0RJYaohnvXg5SmWD1dZF
+Album: Sign of the Times
+14
+Artists: PnB Rock, Ty Dolla $ign
+Name: Hanging Up My Jersey
+Spotify link: https://open.spotify.com/track/3vSrDgfNhlQRwKXJpl1DYo
+Album: GTTM: Goin Thru the Motions
+15
+Artists: Coldplay
+Name: Warning Sign
+Spotify link: https://open.spotify.com/track/4bPkBHKLKd9WHizsvM2zV3
+Album: A Rush Of Blood To The Head
+16
+Artists: Ty Dolla $ign, Future, Rae Sremmurd, Louis The Child
+Name: Blasé (feat. Future & Rae Sremmurd) - Louis The Child Remix
+Spotify link: https://open.spotify.com/track/2NAZcL9tLUkdMMb5v3xFVG
+Album: Blasé (feat. Future & Rae Sremmurd) [Remixes]
+17
+Artists: WizKid, Ty Dolla $ign
+Name: One For Me
+Spotify link: https://open.spotify.com/track/284b45rER2dZCBVCkCQNEk
+Album: Sounds From The Other Side
+18
+Artists: Ace of Base
+Name: All That She Wants
+Spotify link: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+Album: The Sign (US Album) [Remastered]
+19
+Artists: Ace of Base
+Name: The Sign
+Spotify link: https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+Album: Greatest Hits
+20
+Artists: Major Lazer, MOTi, Ty Dolla $ign, WizKid, Kranium
+Name: Boom
+Spotify link: https://open.spotify.com/track/2nxUXNkrivJIBvrNWqud9s
+Album: Peace Is The Mission (Extended)
+
+Command: spotify-this-song
+1
+Artists: Green Day
+Name: American Idiot
+Spotify link: https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj
+Album: American Idiot (Regular Edition)
+2
+Artists: Green Day
+Name: Wake Me Up When September Ends
+Spotify link: https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm
+Album: American Idiot (Regular Edition)
+3
+Artists: Green Day
+Name: Holiday/Boulevard Of Broken Dreams
+Spotify link: https://open.spotify.com/track/0MsrWnxQZxPAcov7c74sSo
+Album: American Idiot (Regular Edition)
+4
+Artists: Green Day
+Name: American Idiot
+Spotify link: https://open.spotify.com/track/45zvStEMsXp8z45OQRhWFJ
+Album: American Idiot (Deluxe)
+5
+Artists: Green Day
+Name: Holiday/Boulevard Of Broken Dreams
+Spotify link: https://open.spotify.com/track/0HJRAM7Gt9jXskuXjZeFX3
+Album: American Idiot (Deluxe)
+6
+Artists: Green Day
+Name: Jesus Of Suburbia
+Spotify link: https://open.spotify.com/track/58KPPL1AdLHMvR2O2PZejr
+Album: American Idiot (Regular Edition)
+7
+Artists: Green Day
+Name: Jesus Of Suburbia
+Spotify link: https://open.spotify.com/track/10lT3pp9QERGOWiIzLx4We
+Album: American Idiot (Deluxe)
+8
+Artists: Green Day
+Name: Wake Me Up When September Ends
+Spotify link: https://open.spotify.com/track/3479kk78dx3GFt048Udq54
+Album: American Idiot (Deluxe)
+9
+Artists: Green Day
+Name: Give Me Novacaine/She's A Rebel
+Spotify link: https://open.spotify.com/track/1TvWynhpfL81aLBd84OSBF
+Album: American Idiot (Deluxe)
+10
+Artists: Green Day
+Name: Are We The Waiting/St. Jimmy
+Spotify link: https://open.spotify.com/track/42d6bxB7OQ6f8ct2ihYNBw
+Album: American Idiot (Deluxe)
+11
+Artists: Green Day
+Name: Whatsername
+Spotify link: https://open.spotify.com/track/7HXtpmFjqt4Wv6T8y5lVz3
+Album: American Idiot (Deluxe)
+12
+Artists: Green Day
+Name: Homecoming
+Spotify link: https://open.spotify.com/track/1tlU33QzdVtUL82H1DYZET
+Album: American Idiot (Deluxe)
+13
+Artists: Green Day
+Name: Give Me Novacaine/She's A Rebel
+Spotify link: https://open.spotify.com/track/11I3KKHv7g2pXiuqRDabRA
+Album: American Idiot (Regular Edition)
+14
+Artists: Green Day
+Name: Extraordinary Girl/Letterbomb
+Spotify link: https://open.spotify.com/track/2M38zNMI7gCoCwfEUZQPq5
+Album: American Idiot (Deluxe)
+15
+Artists: Green Day
+Name: Are We The Waiting/St. Jimmy
+Spotify link: https://open.spotify.com/track/5MqV2o7iLd0lNREZ7SYL05
+Album: American Idiot (Regular Edition)
+16
+Artists: Green Day
+Name: Whatsername
+Spotify link: https://open.spotify.com/track/6CVWD0WRqwbR4HsiKHk1j3
+Album: American Idiot (Regular Edition)
+17
+Artists: Green Day
+Name: Homecoming
+Spotify link: https://open.spotify.com/track/4wH29TM74O3788Kn1KzWuY
+Album: American Idiot (Regular Edition)
+18
+Artists: Green Day
+Name: Extraordinary Girl/Letterbomb
+Spotify link: https://open.spotify.com/track/3RBXNeUbe3X7ZBch00D2St
+Album: American Idiot (Regular Edition)
+19
+Artists: 5 Seconds of Summer
+Name: American Idiot
+Spotify link: https://open.spotify.com/track/1RutQ7SR6qzR6dwpmP8ccX
+Album: Amnesia
+20
+Artists: Green Day
+Name: Too Much Too Soon - Non-Album Track
+Spotify link: https://open.spotify.com/track/2pgrjuet6rU22FqQ7fME7a
+Album: American Idiot (Deluxe)
+
+Command: movie-this
+Title: Get Out
+Year: 2017
+IMDB Rating: 7.8/10
+Rotten Tomatoes Rating: 99%
+Country: USA
+Language: English
+Plot: It's time for a young African American to meet with his white girlfriend's parents for a weekend in their secluded estate in the woods, but before long, the friendly and polite ambience will give way to a nightmare.
+Actors: Daniel Kaluuya, Allison Williams, Catherine Keener, Bradley Whitford
+
+Command: do-what-it-says: spotify-this-song
+1
+Artists: Backstreet Boys
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+2
+Artists: Backstreet Boys
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/68y6OIiE1nDdI1MLQdJNh8
+Album: The Essential Backstreet Boys
+3
+Artists: Backstreet Boys
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+Album: Millennium
+4
+Artists: Anthem Lights
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA
+Album: Covers Part IV
+5
+Artists: Glee Cast
+Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Spotify link: https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+6
+Artists: Manuel Costa
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/50Xq1wZRU5TfwjKlK6j4Gb
+Album: I Want It That Way
+7
+Artists: Backstreet Boys
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5
+Album: 90 Sweet 90s Hits!
+8
+Artists: Dynamite Boy
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN
+Album: Punk Goes Pop
+9
+Artists: "Weird Al" Yankovic
+Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Spotify link: https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK
+Album: Poodle Hat
+10
+Artists: Kyle Olthoff, Destiny Jenkins
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/1UUw0IsDzxCxJ6v0dlygUy
+Album: I Want It That Way
+11
+Artists: Boyce Avenue
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/4YmJGDRo6oGhObb7MaW5om
+Album: New Acoustic Sessions, Vol. 3
+12
+Artists: Landon Austin & Julia Sheer
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/1zUJq8Ap2u9MyDo0HJxVU5
+Album: I Want It That Way
+13
+Artists: "Weird Al" Yankovic
+Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Spotify link: https://open.spotify.com/track/1vaico2C72imYowF4Kv04V
+Album: The Essential "Weird Al" Yankovic
+14
+Artists: Steel Panther
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY
+Album: I Want It That Way
+15
+Artists: Backstreet Boys
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/75W4IDdKhHvRQZpaDx9YPg
+Album: NOW That's What I Call 90s Pop
+16
+Artists: Backstreet Boys
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju
+Album: NKOTBSB
+17
+Artists: Kaiak
+Name: I Want It That Way - Acoustic
+Spotify link: https://open.spotify.com/track/1o6kZhVH06xaWEzdCt4ExL
+Album: I Want It That Way (Acoustic)
+18
+Artists: Scott Bradlee's Postmodern Jukebox, Shoshana Bean
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM
+Album: Selfies on Kodachrome
+19
+Artists: Jason Chen, Joseph Vincent
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/3YugF8eBqmkUDLwFvTfCVB
+Album: I Want It That Way
+20
+Artists: Scott Bradlee's Postmodern Jukebox, Shoshana Bean
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/6FNTpwQU3VNZvezUPYMjPY
+Album: PMJ Is For Lovers: The Love Song Collection
+
+Command: movie-this
+
+Command: spotify-this-song
+
+Command: spotify-this-song
+1
+Artists: Harry Styles
+Name: Sign of the Times
+Spotify link: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
+Album: Sign of the Times
+2
+Artists: Ty Dolla $ign, Lil Wayne, The-Dream
+Name: Love U Better (feat. Lil Wayne & The-Dream)
+Spotify link: https://open.spotify.com/track/0rlFL6bxIWcCn9gk9GExFA
+Album: Love U Better (feat. Lil Wayne & The-Dream)
+3
+Artists: Ty Dolla $ign, DJ Mustard, Wiz Khalifa, The Weeknd
+Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Spotify link: https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO
+Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+4
+Artists: Harry Styles
+Name: Sign of the Times
+Spotify link: https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN
+Album: Harry Styles
+5
+Artists: Jeremih, Ty Dolla $ign
+Name: Impatient
+Spotify link: https://open.spotify.com/track/3WjyiSbfR74pjWXQ3IaFKJ
+Album: Late Nights: The Album
+6
+Artists: Ace of Base
+Name: The Sign
+Spotify link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Album: The Sign (US Album) [Remastered]
+7
+Artists: Mac Miller, Ty Dolla $ign
+Name: Cinderella (feat. Ty Dolla $ign)
+Spotify link: https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb
+Album: The Divine Feminine
+8
+Artists: Lil Wayne, Wiz Khalifa, Imagine Dragons, X Ambassadors, Logic, Ty Dolla $ign
+Name: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+Spotify link: https://open.spotify.com/track/7qUJQSNX9QNf46CC6FgH66
+Album: Suicide Squad: The Album
+9
+Artists: Juicy J, Wiz Khalifa, Ty Dolla $ign, Madsonik, Kill The Noise
+Name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+Spotify link: https://open.spotify.com/track/7zBQRGpYImAdIZc97FNj3V
+Album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+10
+Artists: Ty Dolla $ign, Wiz Khalifa
+Name: Or Nah (feat. Wiz Khalifa) - Live from The Village, Los Angeles
+Spotify link: https://open.spotify.com/track/6hYdhO1BF8V03tuF8pADKP
+Album: Spotify Session
+11
+Artists: Vic Mensa, Ty Dolla $ign
+Name: We Could Be Free
+Spotify link: https://open.spotify.com/track/4dH71jhtwivDcv0nSzzxkM
+Album: The Autobiography
+12
+Artists: Chance The Rapper, Ty Dolla $ign, Anderson .Paak, BJ The Chicago Kid, Raury
+Name: Blessings
+Spotify link: https://open.spotify.com/track/5IdQEHgtmj9th3OkfQKhf8
+Album: Coloring Book
+13
+Artists: Jasmine Thompson, Sabrina Carpenter
+Name: Sign of the Times
+Spotify link: https://open.spotify.com/track/3h0RJYaohnvXg5SmWD1dZF
+Album: Sign of the Times
+14
+Artists: PnB Rock, Ty Dolla $ign
+Name: Hanging Up My Jersey
+Spotify link: https://open.spotify.com/track/3vSrDgfNhlQRwKXJpl1DYo
+Album: GTTM: Goin Thru the Motions
+15
+Artists: Coldplay
+Name: Warning Sign
+Spotify link: https://open.spotify.com/track/4bPkBHKLKd9WHizsvM2zV3
+Album: A Rush Of Blood To The Head
+16
+Artists: Ty Dolla $ign, Future, Rae Sremmurd, Louis The Child
+Name: Blasé (feat. Future & Rae Sremmurd) - Louis The Child Remix
+Spotify link: https://open.spotify.com/track/2NAZcL9tLUkdMMb5v3xFVG
+Album: Blasé (feat. Future & Rae Sremmurd) [Remixes]
+17
+Artists: WizKid, Ty Dolla $ign
+Name: One For Me
+Spotify link: https://open.spotify.com/track/284b45rER2dZCBVCkCQNEk
+Album: Sounds From The Other Side
+18
+Artists: Ace of Base
+Name: All That She Wants
+Spotify link: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+Album: The Sign (US Album) [Remastered]
+19
+Artists: Ace of Base
+Name: The Sign
+Spotify link: https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+Album: Greatest Hits
+20
+Artists: Major Lazer, MOTi, Ty Dolla $ign, WizKid, Kranium
+Name: Boom
+Spotify link: https://open.spotify.com/track/2nxUXNkrivJIBvrNWqud9s
+Album: Peace Is The Mission (Extended)
+
+Command: my-tweets
+BRING BACK DYRUS Created: Fri Sep 22 17:53:32 +0000 2017
+SVEN IS A USELESS WARD Created: Fri Sep 22 17:53:12 +0000 2017
+DOUBLELIFT SUCKS Created: Fri Sep 22 17:53:00 +0000 2017
+FLAMING PEOPLE Created: Fri Sep 22 17:52:54 +0000 2017
+NA BRINGING HOME THE TROPHY Created: Fri Sep 22 17:50:13 +0000 2017
+G2 CHOKE Created: Fri Sep 22 17:48:33 +0000 2017
+SSG Created: Fri Sep 22 17:48:22 +0000 2017
+LZ FLUKE Created: Fri Sep 22 17:48:11 +0000 2017
+SKT OVERRATED Created: Fri Sep 22 17:47:34 +0000 2017
+EU SUCKS KOREA SUCKS CHINA SUCKS Created: Fri Sep 22 17:46:44 +0000 2017
+NA NUMBA 1 Created: Fri Sep 22 17:45:27 +0000 2017
+NA BEST REGION Created: Fri Sep 22 17:45:15 +0000 2017
+KAPPA Created: Fri Sep 22 17:44:31 +0000 2017
+BJERGSEN MVP Created: Fri Sep 22 17:43:57 +0000 2017
+TSM TSM TSM TSM TSM TSM TSM TSM Created: Fri Sep 22 17:42:55 +0000 2017
+TSM BEST TEAM Created: Fri Sep 22 17:41:46 +0000 2017
+S7 CHAMPIONS Created: Fri Sep 22 17:40:08 +0000 2017
+BJERGSEN IS THE BEST MID LANER IN THE WORLD Created: Fri Sep 22 17:36:44 +0000 2017
+WORLDS 2017 IS OURS Created: Fri Sep 22 17:31:22 +0000 2017
+BRING BACK THEODDONE Created: Fri Sep 22 17:26:28 +0000 2017
+
+Command: spotify-this-song
+1
+Artists: Harry Styles
+Name: Sign of the Times
+Spotify link: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
+Album: Sign of the Times
+2
+Artists: Ty Dolla $ign, Lil Wayne, The-Dream
+Name: Love U Better (feat. Lil Wayne & The-Dream)
+Spotify link: https://open.spotify.com/track/0rlFL6bxIWcCn9gk9GExFA
+Album: Love U Better (feat. Lil Wayne & The-Dream)
+3
+Artists: Ty Dolla $ign, DJ Mustard, Wiz Khalifa, The Weeknd
+Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Spotify link: https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO
+Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+4
+Artists: Harry Styles
+Name: Sign of the Times
+Spotify link: https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN
+Album: Harry Styles
+5
+Artists: Jeremih, Ty Dolla $ign
+Name: Impatient
+Spotify link: https://open.spotify.com/track/3WjyiSbfR74pjWXQ3IaFKJ
+Album: Late Nights: The Album
+6
+Artists: Ace of Base
+Name: The Sign
+Spotify link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Album: The Sign (US Album) [Remastered]
+7
+Artists: Mac Miller, Ty Dolla $ign
+Name: Cinderella (feat. Ty Dolla $ign)
+Spotify link: https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb
+Album: The Divine Feminine
+8
+Artists: Lil Wayne, Wiz Khalifa, Imagine Dragons, X Ambassadors, Logic, Ty Dolla $ign
+Name: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+Spotify link: https://open.spotify.com/track/7qUJQSNX9QNf46CC6FgH66
+Album: Suicide Squad: The Album
+9
+Artists: Juicy J, Wiz Khalifa, Ty Dolla $ign, Madsonik, Kill The Noise
+Name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+Spotify link: https://open.spotify.com/track/7zBQRGpYImAdIZc97FNj3V
+Album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+10
+Artists: Ty Dolla $ign, Wiz Khalifa
+Name: Or Nah (feat. Wiz Khalifa) - Live from The Village, Los Angeles
+Spotify link: https://open.spotify.com/track/6hYdhO1BF8V03tuF8pADKP
+Album: Spotify Session
+11
+Artists: Vic Mensa, Ty Dolla $ign
+Name: We Could Be Free
+Spotify link: https://open.spotify.com/track/4dH71jhtwivDcv0nSzzxkM
+Album: The Autobiography
+12
+Artists: Chance The Rapper, Ty Dolla $ign, Anderson .Paak, BJ The Chicago Kid, Raury
+Name: Blessings
+Spotify link: https://open.spotify.com/track/5IdQEHgtmj9th3OkfQKhf8
+Album: Coloring Book
+13
+Artists: Jasmine Thompson, Sabrina Carpenter
+Name: Sign of the Times
+Spotify link: https://open.spotify.com/track/3h0RJYaohnvXg5SmWD1dZF
+Album: Sign of the Times
+14
+Artists: PnB Rock, Ty Dolla $ign
+Name: Hanging Up My Jersey
+Spotify link: https://open.spotify.com/track/3vSrDgfNhlQRwKXJpl1DYo
+Album: GTTM: Goin Thru the Motions
+15
+Artists: Coldplay
+Name: Warning Sign
+Spotify link: https://open.spotify.com/track/4bPkBHKLKd9WHizsvM2zV3
+Album: A Rush Of Blood To The Head
+16
+Artists: Ty Dolla $ign, Future, Rae Sremmurd, Louis The Child
+Name: Blasé (feat. Future & Rae Sremmurd) - Louis The Child Remix
+Spotify link: https://open.spotify.com/track/2NAZcL9tLUkdMMb5v3xFVG
+Album: Blasé (feat. Future & Rae Sremmurd) [Remixes]
+17
+Artists: WizKid, Ty Dolla $ign
+Name: One For Me
+Spotify link: https://open.spotify.com/track/284b45rER2dZCBVCkCQNEk
+Album: Sounds From The Other Side
+18
+Artists: Ace of Base
+Name: All That She Wants
+Spotify link: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+Album: The Sign (US Album) [Remastered]
+19
+Artists: Ace of Base
+Name: The Sign
+Spotify link: https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+Album: Greatest Hits
+20
+Artists: Major Lazer, MOTi, Ty Dolla $ign, WizKid, Kranium
+Name: Boom
+Spotify link: https://open.spotify.com/track/2nxUXNkrivJIBvrNWqud9s
+Album: Peace Is The Mission (Extended)
+
+Command: spotify-this-song
+1
+Artists: blink-182
+Name: Dammit
+Spotify link: https://open.spotify.com/track/6WkSUgo1VdpzgtiXKlFPcY
+Album: Dude Ranch
+2
+Artists: blink-182
+Name: Dammit
+Spotify link: https://open.spotify.com/track/1tT1tIZAINzFZyjoPKtg7C
+Album: Can't Hardly Wait
+3
+Artists: blink-182
+Name: Dammit
+Spotify link: https://open.spotify.com/track/1zwOqDG0DUKEwJM0uNHn4R
+Album: Greatest Hits
+4
+Artists: Barry Bostwick, Susan Sarandon
+Name: Dammit Janet
+Spotify link: https://open.spotify.com/track/0szh331wkGbfgwlwzBJklY
+Album: The Rocky Horror Picture Show - Original Soundtrack
+5
+Artists: Piccallo, Pitbull
+Name: Dammit Man
+Spotify link: https://open.spotify.com/track/5j6d0ZxgcTOtjsFoxMsVdG
+Album: M.I.A.M.I.
+6
+Artists: Go Yayo
+Name: Dammit Man
+Spotify link: https://open.spotify.com/track/2xm9ueTVIh6pvgOaDSReSZ
+Album: Super Saiyan Yayo
+7
+Artists: The Offspring
+Name: Dammit, I Changed Again
+Spotify link: https://open.spotify.com/track/2wInvm8hrvonqyArYUIpvi
+Album: Conspiracy Of One
+8
+Artists: Ryan McCartan, Victoria Justice
+Name: Dammit Janet
+Spotify link: https://open.spotify.com/track/0ytnZPs0sP4pCKNNv21vw1
+Album: The Rocky Horror Picture Show: Let's Do the Time Warp Again
+9
+Artists: blink-182
+Name: Dammit
+Spotify link: https://open.spotify.com/track/7s7rPzIEj0Qn6EwSak5D7x
+Album: Greatest Hits
+10
+Artists: Rockabye Baby!
+Name: Dammit
+Spotify link: https://open.spotify.com/track/0Aq2i2fNTo8omn2GeoAoDI
+Album: Lullaby Renditions of Blink-182
+11
+Artists: Pitbull, Lil' Flip
+Name: Dammit Man Remix
+Spotify link: https://open.spotify.com/track/2RlsVckjbKWVNuqPQ49olE
+Album: Original Hits
+12
+Artists: Vitamin String Quartet
+Name: Dammit
+Spotify link: https://open.spotify.com/track/1KnwhzTKJ14tRnS4se5TT1
+Album: Vitamin String Quartet Performs Blink-182
+13
+Artists: Barry Bostwick, Susan Sarandon
+Name: Dammit Janet
+Spotify link: https://open.spotify.com/track/3w2dfLvgPepCVHKtJClc9w
+Album: Absolute Treasures: The Rocky Horror Picture Show - The Complete and Definitive Soundtrack (2015 40th Anniversary Re-Mastered Edition)
+14
+Artists: The Morning Benders
+Name: Dammit Anna
+Spotify link: https://open.spotify.com/track/3ThS0Oen5O2to7jZZ3tO1w
+Album: Talking Through Tin Cans
+15
+Artists: Lil' Flip, Pitbull
+Name: Dammit Man Remix
+Spotify link: https://open.spotify.com/track/2dFNAz9oO7squgAgxKVfIz
+Album: Money Is Still A Major Issue
+16
+Artists: Dumbfoundead, Wax, Sahtyre, Matik
+Name: Dammit Duke! (feat. Wax, Sahtyre & Matik)
+Spotify link: https://open.spotify.com/track/2G0IliGHkfnQGO7KIYzkr4
+Album: Old Boy Jon
+17
+Artists: A Giant Dog
+Name: Dammit Pomegranate
+Spotify link: https://open.spotify.com/track/6g6tF3Nu8hFVQSJlJxn7Dm
+Album: Bone
+18
+Artists: Sim Balkey
+Name: Dammit
+Spotify link: https://open.spotify.com/track/5WEhF06hm9SbcMk1HDw6rd
+Album: Straight Fire
+19
+Artists: Allred
+Name: Dammit
+Spotify link: https://open.spotify.com/track/6pm4BUgFG4P39AzjfLFzHL
+Album: Covers, Vol. 1
+20
+Artists: Dave Days
+Name: Dammit
+Spotify link: https://open.spotify.com/track/0MalhRHjpDwsBu5ApOmOoe
+Album: Dammit
+
+Command: movie-this
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9/10
+Rotten Tomatoes Rating: 64%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Command: movie-this
+Title: Moana
+Year: 2016
+IMDB Rating: 7.7/10
+Rotten Tomatoes Rating: 96%
+Country: USA
+Language: English
+Plot: In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right.
+Actors: Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison
+
+Command: do-what-it-says: spotify-this-song
+1
+Artists: Backstreet Boys
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+2
+Artists: Backstreet Boys
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/68y6OIiE1nDdI1MLQdJNh8
+Album: The Essential Backstreet Boys
+3
+Artists: Backstreet Boys
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+Album: Millennium
+4
+Artists: Anthem Lights
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA
+Album: Covers Part IV
+5
+Artists: Glee Cast
+Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Spotify link: https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+6
+Artists: Manuel Costa
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/50Xq1wZRU5TfwjKlK6j4Gb
+Album: I Want It That Way
+7
+Artists: Backstreet Boys
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5
+Album: 90 Sweet 90s Hits!
+8
+Artists: Dynamite Boy
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN
+Album: Punk Goes Pop
+9
+Artists: "Weird Al" Yankovic
+Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Spotify link: https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK
+Album: Poodle Hat
+10
+Artists: Kyle Olthoff, Destiny Jenkins
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/1UUw0IsDzxCxJ6v0dlygUy
+Album: I Want It That Way
+11
+Artists: Boyce Avenue
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/4YmJGDRo6oGhObb7MaW5om
+Album: New Acoustic Sessions, Vol. 3
+12
+Artists: Landon Austin & Julia Sheer
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/1zUJq8Ap2u9MyDo0HJxVU5
+Album: I Want It That Way
+13
+Artists: "Weird Al" Yankovic
+Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Spotify link: https://open.spotify.com/track/1vaico2C72imYowF4Kv04V
+Album: The Essential "Weird Al" Yankovic
+14
+Artists: Steel Panther
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY
+Album: I Want It That Way
+15
+Artists: Backstreet Boys
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/75W4IDdKhHvRQZpaDx9YPg
+Album: NOW That's What I Call 90s Pop
+16
+Artists: Backstreet Boys
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju
+Album: NKOTBSB
+17
+Artists: Kaiak
+Name: I Want It That Way - Acoustic
+Spotify link: https://open.spotify.com/track/1o6kZhVH06xaWEzdCt4ExL
+Album: I Want It That Way (Acoustic)
+18
+Artists: Scott Bradlee's Postmodern Jukebox, Shoshana Bean
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM
+Album: Selfies on Kodachrome
+19
+Artists: Jason Chen, Joseph Vincent
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/3YugF8eBqmkUDLwFvTfCVB
+Album: I Want It That Way
+20
+Artists: Scott Bradlee's Postmodern Jukebox, Shoshana Bean
+Name: I Want It That Way
+Spotify link: https://open.spotify.com/track/6FNTpwQU3VNZvezUPYMjPY
+Album: PMJ Is For Lovers: The Love Song Collection

@@ -1,9 +1,93 @@
 //Obtains keys from keys.js
 var keys = require("./keys.js");
-//Gets the function to be called
-var command = process.argv[2];
 //Calls for reads/appends
 var fs = require("fs");
+//Calls inquirer package
+var inquirer = require("inquirer");
+//Prompts user for command
+inquirer
+	.prompt([
+		{
+			type: "list",
+			message: "What command would you like to run?",
+			choices: ["my-tweets", "spotify-this-song", "movie-this", "do-what-it-says"],
+			name: "command"
+		}
+		])
+		.then(function(response) {
+			var command = response.command;
+
+			//Determine which function to run based on command input
+			if (command === "my-tweets") {
+				//Writes command to log.txt
+				fs.appendFileSync("log.txt", "\nCommand: " + command + "\n");
+				//Calls twitter function
+				twitter();
+			}
+			else if (command === "spotify-this-song") {
+				//Writes command to log.txt
+				fs.appendFileSync("log.txt", "\nCommand: " + command + "\n");
+				//Prompts user for song title
+				inquirer
+					.prompt([
+						{
+							type: "input",
+							message: "What song would you like to search?",
+							name: "title"
+						}
+					])
+					.then(function(response) {
+						spotify(response.title);
+					})
+			}
+			else if (command === "movie-this") {
+				//Writes command to log.txt
+				fs.appendFileSync("log.txt", "\nCommand: " + command + "\n");
+				//Prompts user for movie title
+				inquirer
+					.prompt([
+						{
+							type: "input",
+							message: "What movie would you like to search?",
+							name: "title"
+						}
+					])
+					.then(function(response) {
+						movie(response.title);
+					})
+			}
+			else if (command === "do-what-it-says") {
+				//Writes command to log.txt
+				fs.appendFileSync("log.txt", "\nCommand: " + command + ": ")
+				//Reads the random.txt file to determine function
+				fs.readFile("random.txt", "utf8", function(error, data) {
+					//Displays error if necessary
+					if (error) {
+						return console.log(error);
+					}
+
+					//Separates strings in random.txt when , found
+					var dataArr = data.split(",");
+					//First string in file, should be command
+					var command = dataArr[0];
+
+					//Appends command inside random.txt
+					fs.appendFile("log.txt", command + "\n");
+					//Determines command function based on string found
+					if (command === "my-tweets") {
+						twitter();
+					}
+					else if (command === "spotify-this-song") {
+						//Second string in random.txt used for search
+						spotify(dataArr[1]);
+					}
+					else if (command === "movie-this") {
+						//Second string in random.txt used for search
+						movie(dataArr[1]);
+					}
+				});
+			}
+		})
 
 //my-tweets function
 function twitter() {
@@ -47,7 +131,7 @@ function spotify(title) {
 	});
 
 	//Default search if no input
-	if (title === undefined) {
+	if (title === "") {
 		title = "The Sign";
 	}
 	
@@ -101,7 +185,7 @@ function movie(search) {
 	var queryURL = "http://www.omdbapi.com/?apikey=40e9cece&t=";
 
 	//Default search if no input
-	if (search === undefined) {
+	if (search === "") {
 		search = "Mr. Nobody"
 	}
 
@@ -137,83 +221,5 @@ function movie(search) {
 	  fs.appendFileSync("log.txt", "Language: " + language + "\n");
 	  fs.appendFileSync("log.txt", "Plot: " + plot + "\n");
 	  fs.appendFileSync("log.txt", "Actors: " + actors + "\n");
-	});
-}
-
-//Determine which function to run based on command input
-if (command === "my-tweets") {
-	//Writes command to log.txt
-	fs.appendFileSync("log.txt", "\nCommand: " + command + "\n");
-	//Calls twitter function
-	twitter();
-}
-else if (command === "spotify-this-song") {
-	//Writes command to log.txt
-	fs.appendFileSync("log.txt", "\nCommand: " + command + "\n");
-	//Variable to hold search term
-	var title = process.argv[3];
-	//If title is more than 1 word
-	if (process.argv.length > 4) {
-		//Loop through title search
-		for (var i = 4; i < process.argv.length; i++) {
-			//Combine strings together
-			title += "+" + process.argv[i];
-		}
-		spotify(title);
-	}
-	else {
-		//Calls spotify function
-		spotify(title);
-	}
-}
-else if (command === "movie-this") {
-	//Writes command to log.txt
-	fs.appendFileSync("log.txt", "\nCommand: " + command + "\n");
-	//Variable to hold search term
-	var title = process.argv[3];
-	//If title is more than 1 word
-	if (process.argv.length > 4) {
-		//Loop through title search
-		for (var i = 4; i < process.argv.length; i++) {
-			//Combine strings together
-			title += "+" + process.argv[i];
-		}
-		//Calls movie function
-		movie(title);
-	}
-	else {
-		//Calls movie function
-		movie(title);
-	}
-}
-else if (command === "do-what-it-says") {
-	//Writes command to log.txt
-	fs.appendFileSync("log.txt", "\nCommand: " + command + ": ")
-	//Reads the random.txt file to determine function
-	fs.readFile("random.txt", "utf8", function(error, data) {
-		//Displays error if necessary
-		if (error) {
-			return console.log(error);
-		}
-
-		//Separates strings in random.txt when , found
-		var dataArr = data.split(",");
-		//First string in file, should be command
-		var command = dataArr[0];
-
-		//Appends command inside random.txt
-		fs.appendFile("log.txt", command + "\n");
-		//Determines command function based on string found
-		if (command === "my-tweets") {
-			twitter();
-		}
-		else if (command === "spotify-this-song") {
-			//Second string in random.txt used for search
-			spotify(dataArr[1]);
-		}
-		else if (command === "movie-this") {
-			//Second string in random.txt used for search
-			movie(dataArr[1]);
-		}
 	});
 }

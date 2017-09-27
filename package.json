@@ -17,8 +17,9 @@
   },
   "homepage": "https://github.com/rjm925/liri-node-app#readme",
   "dependencies": {
-    "node-twitter": "^1.7.1",
+    "inquirer": "^3.3.0",
     "node-spotify-api": "^1.0.7",
+    "node-twitter": "^1.7.1",
     "request": "^2.82.0"
   }
 }
